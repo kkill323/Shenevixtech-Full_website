@@ -422,7 +422,7 @@ padding: 30px 65px;
 
 }
 
-.product-detail-image{
+.product-image-detail{
   border-radius: 15px;
    background-color: #ebebeb;
 
@@ -633,7 +633,7 @@ margin-top: 160px;
     margin-top: 80px;
   }
   .footer-banner-image{
-    width: 67%;
+    width: 7%;
     left: 30%;
     top: 6%;
     height: 56%
@@ -669,7 +669,7 @@ margin-top: 160px;
     font-size: 40px;
   }
   .hero-banner-container button{
-    margin-top: 96px;
+    margin-top: 90px;
     z-index: 10000;
   }
   .desc{
